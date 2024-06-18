@@ -2,7 +2,7 @@
   "name": "M-Team",
   "timezoneOffset": "+0800",
   "description": "M-Team",
-  "url": "https://xp.m-team.cc/",
+  "url": "https://api.m-team.cc/",
   "icon": "https://xp.m-team.cc/favicon.ico",
   "tags": [
     "影视",
@@ -12,9 +12,9 @@
   "host": "xp.m-team.cc",
   "schema": "mTorrent",
   "cdn": [
-    "https://kp.m-team.cc/",
-    "https://xp.m-team.cc/",
-    "https://ap.m-team.cc/"
+    "https://api.m-team.cc/",
+    "https://api.m-team.io/",
+    "https://mtapi.cc/"
   ],
   "tokenRequired": true,
   "formerHosts": [
